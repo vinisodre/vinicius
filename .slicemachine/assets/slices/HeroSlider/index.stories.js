@@ -1,0 +1,9 @@
+import MyComponent from '../../../../slices/HeroSlider';
+
+export default {
+  title: 'slices/HeroSlider'
+}
+
+
+export const _Default = () => <MyComponent slice={{"variation":"default","version":"sktwi1xtmkfgx8626","items":[{"cta":{"link_type":"Web","url":"http://google.com"},"ctatext":"system"}],"primary":{"title":[{"type":"heading1","text":"Mouth","spans":[]}],"description":[{"type":"paragraph","text":"Velit id officia cillum duis laborum ea tempor. Anim ut anim pariatur commodo sint nisi laborum cillum amet. Cupidatat nostrud quis culpa amet incididunt dolore occaecat tempor irure consequat exercitation esse adipisicing do.","spans":[]}],"image":{"dimensions":{"width":900,"height":500},"alt":null,"copyright":null,"url":"https://images.unsplash.com/photo-1600804931749-2da4ce26c869"}},"slice_type":"hero_slider","id":"_Default"}} />
+_Default.storyName = ''

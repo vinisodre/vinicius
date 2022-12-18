@@ -1,0 +1,14 @@
+{
+  "_cts": {
+    "home": {},
+    "page": {}
+  },
+  "slices": {
+    "HeroSlider": {
+      "default": {
+        "items": {}
+      }
+    },
+    "ImageGrid": {}
+  }
+}
